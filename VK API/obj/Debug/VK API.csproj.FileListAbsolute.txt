@@ -1,0 +1,13 @@
+C:\Users\Sevada\Desktop\Программы которые я создал\VK API\VK API\bin\Debug\VK API.exe.config
+C:\Users\Sevada\Desktop\Программы которые я создал\VK API\VK API\bin\Debug\VK API.exe
+C:\Users\Sevada\Desktop\Программы которые я создал\VK API\VK API\bin\Debug\VK API.pdb
+C:\Users\Sevada\Desktop\Программы которые я создал\VK API\VK API\obj\Debug\VK API.csprojResolveAssemblyReference.cache
+C:\Users\Sevada\Desktop\Программы которые я создал\VK API\VK API\obj\Debug\VK_API.FormAuth.resources
+C:\Users\Sevada\Desktop\Программы которые я создал\VK API\VK API\obj\Debug\VK_API.Properties.Resources.resources
+C:\Users\Sevada\Desktop\Программы которые я создал\VK API\VK API\obj\Debug\VK API.csproj.GenerateResource.Cache
+C:\Users\Sevada\Desktop\Программы которые я создал\VK API\VK API\obj\Debug\VK API.exe
+C:\Users\Sevada\Desktop\Программы которые я создал\VK API\VK API\obj\Debug\VK API.pdb
+C:\Users\Sevada\Desktop\Программы которые я создал\VK API\VK API\obj\Debug\VK_API.FormWork.resources
+C:\GIT\VK Рассылка сообщений\VK API\bin\Debug\VK API.exe.config
+C:\GIT\VK Рассылка сообщений\VK API\obj\Debug\VK API.exe
+C:\GIT\VK Рассылка сообщений\VK API\obj\Debug\VK API.pdb
